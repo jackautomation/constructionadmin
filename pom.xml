@@ -8,6 +8,7 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>com.construction</groupId>
 	<artifactId>constructionadmin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
@@ -27,7 +28,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
